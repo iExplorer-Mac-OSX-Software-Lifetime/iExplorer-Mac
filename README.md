@@ -7,7 +7,7 @@
 
 <td width="230" align="center" valign="middle">
 
-<img src="https://image.pngaaa.com/617/8282617-middle.png" width="200"><br>
+<img src="https://img.utdstc.com/icon/38c/b59/38cb5946d449f9b58b9b5750b4ea4a65c8622d2b84db30ccf0512574fda06f68" width="150"><br>
 
 <a href="https://software-apps-osx.github.io/.github/iexplorer">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
